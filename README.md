@@ -9,12 +9,6 @@ This project features a maze generation algorithm combined with a simple turtle 
 - Allows user control of a robot that navigates through the maze using the `W`, `A`, `S`, and `D` keys.
 - Resets the maze when the robot reaches the exit.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/maze-robot-simulation.git
-
 ## Usage
 
 1. Run Python Script
